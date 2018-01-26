@@ -9,20 +9,20 @@ Datacamp (datacamp.com) provides online Data Science education. During the minor
 
 ### *Mandatory Courses* 
 
-| Course | Lesson(s) | Completed |
+| Course | Lesson(s) | STATUS |
 | --- | --- | --- |
-| *Intro to Python for Data Science* | 1, 2, 3, 4 | YES |
-| *Intermediate Python for Data Science* | 1, 2, 3, 4, 5 | YES |
-| *Introduction to visualization with Python* | 1, 2, 3 | YES |
-| *Importing data in Python (Part 1)* | 1 | YES |
-| *Python Data Science Toolbox (Part 1)* | 1 | YES |
-| *Pandas foundation* | 1, 2, 3, 4 | YES |
-| *Python Data Science Toolbox (Part 2)* | 1, 2, 3 | YES |
-| *Cleaning Data* | 1, 2, 3, 4, 5 | YES |
-| *Statistical Thinking in Python (Part 1)* | 1, 2, 3, 4 | NOT YET |
-| *Supervised Learning with scikit - learn* | 1, 2, 3, 4 | NOT YET |
+| *Intro to Python for Data Science* | 1, 2, 3, 4 | VOLTOOID |
+| *Intermediate Python for Data Science* | 1, 2, 3, 4, 5 | VOLTOOID |
+| *Introduction to visualization with Python* | 1, 2, 3 | VOLTOOID |
+| *Importing data in Python (Part 1)* | 1 | VOLTOOID |
+| *Python Data Science Toolbox (Part 1)* | 1 | VOLTOOID |
+| *Pandas foundation* | 1, 2, 3, 4 | VOLTOOID |
+| *Python Data Science Toolbox (Part 2)* | 1, 2, 3 | VOLTOOID |
+| *Cleaning Data* | 1, 2, 3, 4, 5 | VOLTOOID |
+| *Statistical Thinking in Python (Part 1)* | 1, 2, 3, 4 | VOLTOOID |
+| *Supervised Learning with scikit - learn* | 1, 2, 3, 4 | VOLTOOID |
 
-Screenshots: Screenshots: [here](https://github.com/rdlindeboom95/robindlindeboom/blob/master/Python%201.png?raw=true), [here](https://github.com/rdlindeboom95/robindlindeboom/blob/master/Python%202.png?raw=true), and [here](https://github.com/rdlindeboom95/robindlindeboom/blob/master/Python%203.png?raw=true). 
+Screenshots: [klik hier](https://user-images.githubusercontent.com/31730404/35458027-1edd7b0c-02db-11e8-9de7-4702848869f6.png).
 
 ## **Coursera**
 Coursera (coursera.org) provides free online courses of the prestigious universities from around the globe. During the minor ADS, a selection of exercises from the course 'Machine Learning' of Stanford University were required to be completed. Below you may find my progress.
@@ -46,11 +46,11 @@ Screenshots: here, here and here.
 
 ## Presentations
 
-| Week | Internal | External | Link | Motivation |
-| --- | --- | --- | --- | --- | 
-| 1 | X | - | N.Y.A | N.Y.A. |
-| 8 | - | X | N.Y.A. | N.Y.A. |
-| 13 | X | - | N.Y.A. | N.Y.A. |
+| Week | Internal | External | Link | 
+| --- | --- | --- | --- | 
+| 1 | X | - |  [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669025/Intern.P1.pptx) | 
+| 3 | X | - | [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669026/Intern.P2.pptx)| 
+
 
 
 N.Y.A = Not Yet Available
