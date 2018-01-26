@@ -86,22 +86,27 @@ Planning wk 17 tm 20
 ## Opdrachten
 
 Spark 1: [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/blob/master/Assignment%2B2%2B-%2BSpark%2B-%2BR.D.%2BLindeboom%2B-%2B11057726.md)
+
 Spark 2 [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/blob/master/Assignment%2B2%2B-%2BSpark%2B-%2BR.D.%2BLindeboom%2B-%2B11057726.md)
+
+Data Bullshit [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669024/Opdracht.Calling.out.Data.bullshit.-.Robin.Lindeboom.-.11057726.pdf)
+
+
 
 ## Presentaties
 
 | Week | Internal | External | Link | 
 | --- | --- | --- | --- | 
 | 1 | X | - |  [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669025/Intern.P1.pptx) | 
-| 3 | X | - | [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669026/Intern.P2.pptx)| 
+| 3 | X | - | [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669026/Intern.P2.pptx)|
+| 8 | - | X | [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669313/Extern.P3.pptx)|
 
 ## GitHub artikelen
 
 | Date | Link | Motivation |
 | --- | --- | --- |
-| 22/09/2017 | N.Y.A. | N.Y.A. |
-| 06/10/2017 | N.Y.A. | N.Y.A. |
-| 27/10/2017 | N.Y.A. | N.Y.A. |
+| 22/09/2017 | [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669327/Github.artikel.22092017.docx) | n.v.t. |
+| 27/10/2017 | [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669327/Github.artikel.22092017.docx) | Samen met Boris geschreven|
 
 ## Andere activiteiten
 
