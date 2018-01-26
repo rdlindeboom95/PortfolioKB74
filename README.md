@@ -85,7 +85,7 @@ Planning wk 17 tm 20
 
 ## Opdrachten
 
-Spark 1: (https://github.com/rdlindeboom95/PortfolioKB74/blob/master/Assignment%2B2%2B-%2BSpark%2B-%2BR.D.%2BLindeboom%2B-%2B11057726.md)
+Spark 1: [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/blob/master/Assignment%2B2%2B-%2BSpark%2B-%2BR.D.%2BLindeboom%2B-%2B11057726.md)
 Spark 2 [klik hier](
 
 ## Presentaties
