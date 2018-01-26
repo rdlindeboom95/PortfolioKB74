@@ -45,15 +45,14 @@ In deze portfolio heb mijn werkzaamheden tijdens de minor Applied Data Science i
 | Sprint | Taak | Link | Motivatie |
 | --- | --- | --- | --- |
 | 1 | - Voorbereiden gesprekken/interview arts | n.v.t. | n.v.t. |
-|  | - Opzoeken literatuur medisch domein | MOET NOG KOMEN | n.v.t. |
 |  | - Interne Presentatie 1 | Zie Presentaties | n.v.t. |
-| 2 | - Frequentie contact opnemen arts document | v.t.n. | Wensen arts, connecties andere fysio's |
-|  | - Plan van Aanpak + Vooronderzoek (Medisch domein | [klik hier]( |  |
-|  | - Interne Presentatie 2| Zie Presentaties |  |
+| 2 | - Frequentie contact opnemen arts document | n.v.t. | Wensen arts, connecties andere fysio's |
+|  | - Plan van Aanpak + Vooronderzoek (Medisch domein) | [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669441/Aanpak.vooronderzoek.docx) |  |
+|  | - Interne Presentatie 2| Zie Presentaties | n.v.t. | 
 | 3 | - Orde in Scrumwise aanmaken | n.v.t. | n.v.t. |
 | 4 | - Regelen elektricititeit bij Innovation Playground en Facilitaire dienst | n.v.t. | n.v.t. |
 | | - Plaatsing GitHub artikel 22/09/2017 | Zie GitHub kopje | n.v.t. |
-| 5 | - Python code geschreven | [klik hier]( | n.v.t. |
+| 5 | - Python code geschreven | [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669440/Python.Code.docx) | n.v.t. |
 | | - Opschonen van Data | n.v.t. | Met Boris |
 | | - Methoden zoeken voor opschonen data | n.v.t. | n.v.t. |
 | | - Methoden gebruiken om data op te schonen | n.v.t. | n.v.t. |
