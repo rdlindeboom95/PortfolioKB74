@@ -1,10 +1,9 @@
 # PortfolioKB74
-Portfolio Robin Lindeboom
+Portfolio Robin Lindeboom - Student Bedrijfskunde MER - 11057726
 
 Welcome to the personal GitHub page of Robin Lindeboom. This page is made in accordance to the guidelines of the elective minor Applied Data Science (ADS), provided by the Faculty of Information Technology and Design at The Hague University of Applied Sciences. Below you may find my personal development during the above mentioned minor. Within this minor I take part in the research group 'Pepper'. Pepper conducts a research about the usage of a thee-dimensional camera in healthcare. The research question is as follows: *Is a physical therapist able to detect a painful arc among patients with assistance of a three-dimensional camera?*
 
 # **Datacamp**
-Datacamp (datacamp.com) provides online Data Science education. During the minor ADS, several courses were required to be completed. Below you may find my progress. 
 
 | Course | Lesson(s) | STATUS |
 | --- | --- | --- |
@@ -20,7 +19,6 @@ Datacamp (datacamp.com) provides online Data Science education. During the minor
 | *Supervised Learning with scikit - learn* | 1, 2, 3, 4 | VOLTOOID |
 
 ## **Coursera**
-Coursera (coursera.org) provides free online courses of the prestigious universities from around the globe. During the minor ADS, a selection of exercises from the course 'Machine Learning' of Stanford University were required to be completed. Below you may find my progress.
 
 | Chapter | Week | Status | Link |
 | --- | --- | --- | --- |
@@ -85,6 +83,9 @@ Planning wk 17 tm 20
 -	Planning artikel
 
 ## Opdrachten
+
+Spark 1
+Spark 2
 
 ## Presentaties
 
