@@ -1,9 +1,20 @@
 # PortfolioKB74
 Portfolio Robin Lindeboom - Student Bedrijfskunde MER - 11057726
 
-Welcome to the personal GitHub page of Robin Lindeboom. This page is made in accordance to the guidelines of the elective minor Applied Data Science (ADS), provided by the Faculty of Information Technology and Design at The Hague University of Applied Sciences. Below you may find my personal development during the above mentioned minor. Within this minor I take part in the research group 'Pepper'. Pepper conducts a research about the usage of a thee-dimensional camera in healthcare. The research question is as follows: *Is a physical therapist able to detect a painful arc among patients with assistance of a three-dimensional camera?*
+Welkom op de GitHub pagina van Robin Lindeboom, 4e jaars Bedrijfskunde MER student aan de Haagse Hogeschool. Bij aanvang van de minor had ik weinig tot geen technische kennis op het gebied van Data Science. Echter heb ik in mijn stageperiode in jaar 3 ervaring opgedaan met Data Privacy. Mijn doel van deze minor was om zoveel mogelijk te leren en mijn expertise vanuit bedrijfskunde toe te passen in de processen rondom het project en de projectgroep. de projectgroep. 
 
-# **Datacamp**
+## **Leeswijzer** 
+In deze portfolio heb mijn werkzaamheden tijdens de minor Applied Data Science in de volgende categorieën opgedeeld: 
+
+- Datacamp
+- Coursera
+- Mijn resultaten
+- Opdrachten
+- Presentaties
+- Github artikelen
+- Overige activiteit(en)
+
+## **Datacamp**
 
 | Course | Lesson(s) | STATUS |
 | --- | --- | --- |
@@ -29,59 +40,34 @@ Welcome to the personal GitHub page of Robin Lindeboom. This page is made in acc
 
 # Mijn resultaten
 
-
 ## Sprint
 
-### Sprint 1
-Interne Presentatie 1
--	Voorbereiden gesprekken / interview arts
--	Een schouderprothese folder
+| Sprint | Taak | Link | Motivatie |
+| --- | --- | --- | --- |
+| 1 | - Voorbereiden gesprekken/interview arts | n.v.t. | n.v.t. |
+|  | - Opzoeken literatuur medisch domein | MOET NOG KOMEN | n.v.t. |
+|  | - Interne Presentatie 1 | Zie Presentaties | n.v.t. |
+| 2 | - Frequentie contact opnemen arts document | MOET NOG KOMEN | Wensen arts, connecties andere fysio's |
+|  | - Plan van Aanpak + Vooronderzoek (Medisch domein |  |  |
+|  | - Interne Presentatie 2| Zie Presentaties |  |
+| 3 | - Orde in Scrumwise aanmaken | n.v.t. | n.v.t. |
+| 4 | - Regelen elektricititeit bij Innovation Playground en Facilitaire dienst | n.v.t. | n.v.t. |
+| | - Plaatsing GitHub artikel 22/09/2017 | Zie GitHub kopje | n.v.t. |
+| 5 | - Python code geschreven | MOET NOG KOMEN | X |
+| | - Opschonen van Data | MOET NOG KOMEN | Met Boris |
+| | - Methoden zoeken voor opschonen data | n.v.t. | n.v.t. |
+| | - Methoden gebruiken om data op te schonen | n.v.t. | n.v.t. |
+| | - Valideren Oefening 2 en 3 van personen 1, 2, 4 en 5 | n.v.t. | n.v.t. |
+| | - Ruwe Data produceren voor Oefening 3 van personen 1, 2, 4 en 5 | n.v.t. | n.v.t. |
+| | - Presentatie Extern 27/10/2017 | Zie Presentaties | n.v.t. | n.v.t. |
+| 6 | - Valideren ValidData.xlsx | MOET NOG KOMEN | n.v.t.|
+| 7 | - Plaatsing GitHub artikel 27/10/2017 | Zie GitHub kopje | n.v.t. |
+|  | - Scrumwise Sprint 7 taken uitdelen | n.v.t. | n.v.t. |
+| 8 | - Introductietekst Hans de Vreught | MOET NOG KOMEN | Met Boris |
+| 9 | - Planning Wk 17 en 20 maken Peppergroep | X | X |
+| | - Schrijven stukken Oefeningen, Opnameprotocol voor paper | MOET NOG KOMEN | X |
+| | - Eindcontrole en herschrijven van Paper | X | Met Laura |
 
-### Sprint 2
-Interne Presentatie 2
-Opstellen vragen interview
--	- Frequentie contact opnemen? (beschikbaarheid arts)
--	- Wat zijn de wensen van de artsen
--	- Zijn er fysio's waar zij nauw contact mee hebben?
-Plan van aanpak opstellen: Robin heeft regie
--	Aanpak + Vooronderzoek (Medisch domein)
-
-### Sprint 3
--	Orde in Scrumwise maken
-
-### Sprint 4
--	Regelen elektriciteit (klaar: Toestemming hebben voor elektriciteit voor de testsetup
- ( facilitair & innovation playground)
-
--	Contacteren innovation playground
--	Contacteren facilitaire dienst
--	Plaatsing Github artikel 22/09/2017
-
-### Sprint 5
--	Python code geschreven
--	Presentatie Extern 27/10/2017
--	Opschonen van Data (& Boris)
--	Methoden zoeken voor opschonen data
--	Methoden gebruiken om data op te schonen (De gemaakte lijst met methoden toepassen op onze data set
--	Valideren P1E2, P1E3, P2E2, P2E3, P4E2, P4E3, P5E2, P5E3
--	Ruwe Data: P1E3, P2E3, P4E3, P5E3
-
-### Sprint 6
--	Valideren
--	ValidData.xlsx file
-
-### Sprint 7
-Plaatsing GitHub artikel 27/10/2017
-Scrumwise Sprint 7
-
-### Sprint 8
--	Introductie Hans de Vreught (een klein document maken waarin we de voortgang en het doel van het project beschrijven & Boris)
-
-### Sprint 9
--	Paper onderdelen schrijven
--	Paper herschrijven 
-Planning wk 17 tm 20
--	Planning artikel
 
 ## Opdrachten
 
@@ -108,6 +94,8 @@ Data Bullshit [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1
 | 22/09/2017 | [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669327/Github.artikel.22092017.docx) | n.v.t. |
 | 27/10/2017 | [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669327/Github.artikel.22092017.docx) | Samen met Boris geschreven|
 
-## Andere activiteiten
+## Andere activiteit(en)
 
 - Hackathon 
+In november heb ik samen met Hans, Laura en Bram meegedaan aan een hackathon. Tijdens deze hackthon moesten wij binnen 24 uur met een big data regelateerde oplossing voor een maatschappelijk vraag komen. Tijdens deze hackathon heb ik mij vooral bezig gehouden met het bedrijfskundig aspect en de powerpoint. [Foto 1](https://user-images.githubusercontent.com/31730404/35458028-1ef4b9a2-02db-11e8-8b1c-aab89ce836b3.png) en [Foto 2](https://user-images.githubusercontent.com/31730404/35458030-1f0bbb2a-02db-11e8-932b-fd37198f549d.png).
+
