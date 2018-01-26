@@ -29,14 +29,14 @@ Coursera (coursera.org) provides free online courses of the prestigious universi
 
 ### *Mandatory courses*
 
-| Chapter | Week | Completed |
-| --- | --- | --- |
-| *Introduction and flat files* | 1 | NOT YET |
-| *Linear Regression with Multiple Variables* | 2 | NOT YET |
-| *Logistic Regression & Regularization* | 3 | NOT YET |
-| *Advice for Applying Machine Learning* | 6 | NOT YET |
+| Chapter | Week | Status | Link |
+| --- | --- | --- | --- |
+| *Introduction and flat files* | 1 | VOLTOOID | [klik hier](https://user-images.githubusercontent.com/31730404/35462125-f9bc3614-02ea-11e8-9231-7eb3ecaf9cf7.png) |
+| *Linear Regression with Multiple Variables* | 2 | GEDEELTELIJK VOLTOOID | Zie link hierboven |
+| *Logistic Regression & Regularization* | 3 | GEDEELTELIJK VOLTOOID | [klik hier](https://user-images.githubusercontent.com/31730404/35462129-feb57c7a-02ea-11e8-9204-17e073ac83e4.png) |
+| *Advice for Applying Machine Learning* | 6 | GEDEELTELIJK VOLTOOID | [klik hier](https://user-images.githubusercontent.com/31730404/35462301-aac64346-02eb-11e8-8839-a920f1e69ab7.png) |
 
-Screenshots: here, here and here. 
+
 
 # Mijn resultaten
 
