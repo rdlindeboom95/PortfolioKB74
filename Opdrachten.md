@@ -28,10 +28,10 @@ Bewijs: [klik hier](https://user-images.githubusercontent.com/31730404/35458027-
 Bewijs: [klik hier](https://user-images.githubusercontent.com/31730404/36172439-2a64b006-1106-11e8-9c11-bab9f29d83b8.png)
 
 ## **Spark**
-Spark 1
+# Spark 1
 Bewijs:[klik hier](https://github.com/rdlindeboom95/PortfolioKB74/blob/master/Assignment%2B2%2B-%2BSpark%2B-%2BR.D.%2BLindeboom%2B-%2B11057726.md)
 
-Spark 2 
+# Spark 2 
 Bewijs:[klik hier](https://github.com/rdlindeboom95/PortfolioKB74/blob/master/Assignment%2B2%2B-%2BSpark%2B-%2BR.D.%2BLindeboom%2B-%2B11057726.md)
 
 
