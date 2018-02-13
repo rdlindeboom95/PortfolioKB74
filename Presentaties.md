@@ -1,10 +1,15 @@
 ## **Presentaties**
+Onderstaand kunnen mijn gegeven presentaties gevonden worden
 
 
-| Week | Internal | External | Link | 
-| --- | --- | --- | --- | 
-| 1 | X | - |  [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669025/Intern.P1.pptx) | 
-| 3 | X | - | [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669026/Intern.P2.pptx)|
-| 8 | - | X | [klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669313/Extern.P3.pptx)|
+# Intern 1
+[klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669025/Intern.P1.pptx) | 
 
-Eindpresentatie LUMC
+# Intern 2
+[klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669026/Intern.P2.pptx)|
+
+# Extern 3
+[klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1669313/Extern.P3.pptx)
+
+# Eindpresentatie LUMC 
+[klik hier](https://github.com/rdlindeboom95/PortfolioKB74/files/1721601/Presentatie.LUMC.1.pptx)
