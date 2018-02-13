@@ -14,13 +14,14 @@ In deze portfolio heb ik mijn werkzaamheden tijdens de minor Applied Data Scienc
 Door op 'klik hier' onder de kopjes te drukken, wordt er naar een andere pagina verwezen. 
 
 ## **Werkzaamheden**
-
+[klik hier](https://github.com/rdlindeboom95/PortfolioKB74/blob/master/Werkzaamheden.md)
 
 ## **Opdrachten**
-
+[klik hier](https://github.com/rdlindeboom95/PortfolioKB74/blob/master/Opdrachten.md)
 
 ## **Presentaties**
-
+[klik hier](https://github.com/rdlindeboom95/PortfolioKB74/blob/master/Presentaties.md)
 
 ## **Overige**
 Bij overige zijn activiteiten gezet die wellicht minder te maken hebben met de minor, maar toch benoemingswaardig zijn.
+[klik hier](https://github.com/rdlindeboom95/PortfolioKB74/blob/master/Overige.md)
